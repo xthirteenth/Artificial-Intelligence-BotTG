@@ -1,4 +1,4 @@
-# BotInfoTG
+# Artificial-Intelligence-BotTG
 
 A Node.js bot that collects news, technologies, code, formulas, and other information using the ChatGPT API, processes it into a suitable form, and publishes it to a Telegram channel.
 
